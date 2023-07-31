@@ -39,8 +39,8 @@
 
     <ol>
       <li>
-        <label for=nom>Nom</label>
-        <input id=nom name=nom type=text placeholder="Prénom et nom" required autofocus>
+        <label for=nom> Nom</label>
+        <input id="nom" name="nom" type=text placeholder="Prénom et nom" required autofocus>
       </li>
       <li>
         <label for=email>Email</label>
