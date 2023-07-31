@@ -35,19 +35,19 @@
 
 <form id=paiement>
   <fieldset>
-    <legend>Votre identitÃ©</legend>
+    <legend>Votre identité</legend>
 
     <ol>
       <li>
         <label for=nom>Nom</label>
-        <input id=nom name=nom type=text placeholder="PrÃ©nom et nom" required autofocus>
+        <input id=nom name=nom type=text placeholder="Prénom et nom" required autofocus>
       </li>
       <li>
         <label for=email>Email</label>
         <input id=email name=email type=email placeholder="exemple@domaine.com" required>
       </li>
       <li>
-        <label for=telephone>TÃ©lÃ©phone</label>
+        <label for=telephone>Téléphone</label>
         <input id=telephone name=telephone type=tel placeholder="par ex&nbsp;: +3375500000000" required>
       </li>
     </ol>
