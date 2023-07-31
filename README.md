@@ -14,7 +14,7 @@
 <form>
   <fieldset>
     <legend>choisissez un lot d jus de fruit:</legend>
-    <select name=« jus »  id=« jus-select » autocomplete=« off » required>
+    <select name="jus"  id="jus-select" autocomplete="off" required>
     <option value="—Veuillez choisir one option—"</option>
     <option value="individuel demarrage essai">Lot démarrage avec 3 bouteilles jus d’abricot.</option>
     <option value="famille demarrage essai">Lot démarrage famille avec 6 bouteilles jus d’abricot.</option>
