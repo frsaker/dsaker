@@ -25,11 +25,11 @@ Vous pouvez commander les meilleurs jus de fruits naturels
     <option value=individuel_demarrage_essai>Lot démarrage avec 3 bouteilles jus d’abricot.</option>
     <option value=famille_demarrage_essai>Lot démarrage famille avec 6 bouteilles jus d’abricot.</option>
     <option value=entreprise_demarrage_essai>Lot démarrage Restaurant/Brasserie avec 20 bouteilles jus d’abricot.</option>
-    <option value=lot-dix>Lot de 10 bouteilles jus d’abricot.</option>
-    <option value=lot-vingt>Lot de 20 bouteilles jus d’abricot.</option>
-    <option value=lot-trente>Lot de 30 bouteilles jus d’abricot.</option>
-    <option value=lot-cinquante>Lot de 50 bouteilles jus d’abricot.</option>
-    <option value=lot-cent>Lot de 100 bouteilles jus d’abricot.</option>
+    <option value=lot_dix>Lot de 10 bouteilles jus d’abricot.</option>
+    <option value=lot_vingt>Lot de 20 bouteilles jus d’abricot.</option>
+    <option value=lot_trente>Lot de 30 bouteilles jus d’abricot.</option>
+    <option value=lot_cinquante>Lot de 50 bouteilles jus d’abricot.</option>
+    <option value=lot_cent>Lot de 100 bouteilles jus d’abricot.</option>
 </select>
 </fieldset>
 </form>
