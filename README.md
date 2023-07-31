@@ -1,10 +1,10 @@
 # Les Fruits de l'Ardèche 
 <HTML>
-	<HEAD>
+<HEAD>
 		<TITLE>Les Fruits de l’Ardèche</TITLE>
-	</HEAD>
+</HEAD>
 
-	<BODY>
+<BODY>
 		Bienvenue sur le site Fruits de l’Ardèche
 
   		SAPET Les Martin
@@ -13,22 +13,22 @@
   		
 
 
-		Vous pouvez commander les meilleurs jus de fruits naturels
+Vous pouvez commander les meilleurs jus de fruits naturels
    <figure> <img src="abricot.png"  alt="abricot">  </figure>
 
 <form>
   <fieldset>
     <legend>choisissez un lot d jus de fruit:</legend>
-    <select name="jus"  id="jus-select" autocomplete="off" required>
-    <option value="—Veuillez choisir one option—"</option>
-    <option value="individuel demarrage essai">Lot démarrage avec 3 bouteilles jus d’abricot.</option>
-    <option value="famille demarrage essai">Lot démarrage famille avec 6 bouteilles jus d’abricot.</option>
-    <option value="entreprise demarrage essai">Lot démarrage Restaurant/Brasserie avec 20 bouteilles jus d’abricot.</option>
-    <option value="lot de dix">Lot de 10 bouteilles jus d’abricot.</option>
-    <option value="lot de dix">Lot de 20 bouteilles jus d’abricot.</option>
-    <option value="lot de dix">Lot de 30 bouteilles jus d’abricot.</option>
-    <option value="lot de dix">Lot de 50 bouteilles jus d’abricot.</option>
-    <option value="lot de dix">Lot de 100 bouteilles jus d’abricot.</option>
+    <select name=jus  id=jus-select autocomplete=off required>
+    <option value=—Veuillez choisir one option—</option>
+    <option value=individuel demarrage essai>Lot démarrage avec 3 bouteilles jus d’abricot.</option>
+    <option value=famille demarrage essai>Lot démarrage famille avec 6 bouteilles jus d’abricot.</option>
+    <option value=entreprise demarrage essai>Lot démarrage Restaurant/Brasserie avec 20 bouteilles jus d’abricot.</option>
+    <option value=lot de dix>Lot de 10 bouteilles jus d’abricot.</option>
+    <option value=lot de dix>Lot de 20 bouteilles jus d’abricot.</option>
+    <option value=lot de dix>Lot de 30 bouteilles jus d’abricot.</option>
+    <option value=lot de dix>Lot de 50 bouteilles jus d’abricot.</option>
+    <option value=lot de dix>Lot de 100 bouteilles jus d’abricot.</option>
 </select>
 </fieldset>
 </form>
@@ -110,7 +110,5 @@
     <button type=submit>J’achète !</button>
   </fieldset>
 </form>
-
-
-   	</BODY>
+</BODY>
 </HTML>
