@@ -6,11 +6,13 @@
 
 <BODY>
 		Bienvenue sur le site Fruits de l’Ardèche
-
+<br>
   		SAPET Les Martin
+<br>
                 Colombiers le vieux 
+<br>
 		Ardèche 07410
-  		
+<BR>
 
 
 Vous pouvez commander les meilleurs jus de fruits naturels
@@ -20,7 +22,6 @@ Vous pouvez commander les meilleurs jus de fruits naturels
   <fieldset>
     <legend>choisissez un lot d jus de fruit:</legend>
     <select name=jus  id=jus-select autocomplete=off required>
-    <option value=—Veuillez choisir one option—</option>
     <option value=individuel demarrage essai>Lot démarrage avec 3 bouteilles jus d’abricot.</option>
     <option value=famille demarrage essai>Lot démarrage famille avec 6 bouteilles jus d’abricot.</option>
     <option value=entreprise demarrage essai>Lot démarrage Restaurant/Brasserie avec 20 bouteilles jus d’abricot.</option>
