@@ -20,7 +20,7 @@ Vous pouvez commander les meilleurs jus de fruits naturels
 
 <form>
   <fieldset>
-    <select name=jus  id=jus-select autocomplete=off required>
+    <select name=jus  id=jus-select>
     <option value=individuel_demarrage_essai>Lot démarrage avec 3 bouteilles jus d’abricot.</option>
     <option value=famille_demarrage_essai>Lot démarrage famille avec 6 bouteilles jus d’abricot.</option>
     <option value=entreprise_demarrage_essai>Lot démarrage Restaurant/Brasserie avec 20 bouteilles jus d’abricot.</option>
