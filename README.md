@@ -9,7 +9,7 @@
 
 
 		Vous pouvez commander les meilleurs jus de fruits naturels
-   <figure> <img src="/main/root/abricot.jpg"  alt="abricot">  </figure>
+   <figure> <img src="/main/abricot.jpg"  alt="abricot">  </figure>
 
 <form>
   <fieldset>
